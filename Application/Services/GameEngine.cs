@@ -1,5 +1,6 @@
 ﻿using SnakeGame.Domain.Entities;
 using SnakeGame.Domain.Services;
+using static SnakeGame.Domain.Entities.Enums;
 
 namespace SnakeGame.Application.Services
 {

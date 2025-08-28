@@ -1,6 +1,7 @@
 ﻿using SnakeGame.Application.Services;
 using SnakeGame.Domain.Entities;
 using SnakeGame.Infrastructure.Rendering;
+using static SnakeGame.Domain.Entities.Enums;
 
 namespace SnakeGame.Presentation
 {

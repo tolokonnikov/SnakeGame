@@ -1,4 +1,6 @@
-﻿namespace SnakeGame.Domain.Entities
+﻿using static SnakeGame.Domain.Entities.Enums;
+
+namespace SnakeGame.Domain.Entities
 {
     public class Snake
     {
